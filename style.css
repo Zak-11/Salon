@@ -8,8 +8,9 @@
     background-size: auto;
 
     background: linear-gradient(rgba(0, 0, 0, 0.4), gray),
-    url(images/barbara-palvin-devushka-vzgliad-makiiazh-shliapa-ukrasheniia.jpg) center;
+    url(images/mark.jpg) center;
     height: 100vh;
+
 }
 
 .logo {
